@@ -11,7 +11,7 @@ public class Main {
 		setPrint(x);
 		x.show();
 	}
-
+	//改动
 	public static void setPrint(Print x) {
 		Calendar c = Calendar.getInstance();
 		int dyear = c.get(Calendar.YEAR);
